@@ -1,0 +1,1 @@
+http://deepx.ucsd.edu/public/jmcauley/qa/data/qa_Beauty.json.gz
